@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Akilesh7/facebook#readme",
   "dependencies": {
-    "react": "^16.13.1"
+    "react": "^16.13.1",
+    "reactdom": "^2.0.0"
   }
 }
