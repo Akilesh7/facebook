@@ -1,0 +1,22 @@
+{
+  "name": "facebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akilesh7/facebook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akilesh7/facebook/issues"
+  },
+  "homepage": "https://github.com/Akilesh7/facebook#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
